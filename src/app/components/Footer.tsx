@@ -12,7 +12,8 @@ const Footer = () => {
               <Image src={logo} alt="logo-image" />
             </div>
             <p className="text-sm mt-3">
-              Whitepace was created for the new ways we live and work. We make better workspaces around the world.
+              Whitepace was created for <br /> the new ways we live and <br /> work. We make better <br />
+               workspaces around the world.
             </p>
           </div>
   
